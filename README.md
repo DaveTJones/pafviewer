@@ -5,5 +5,10 @@ To run, first install the uv package manager: https://docs.astral.sh/uv/getting-
 
 then run 
 ```
-uvx marimo run main.py --sanbox
+uvx marimo run main.py --sandbox
 ```
+
+example output:
+![alt text][logo]
+
+[logo]: https://github.com/DaveTJones/pafviewer/edit/main/visualisation.png "paf alignment example dotplot``"``
